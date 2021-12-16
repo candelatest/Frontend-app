@@ -1,0 +1,117 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+}
+.Rectangle-1 {
+    position: absolute;
+    width: 1182px;
+    height: 100px;
+    left: 128px;
+    top: 0px;
+    background: #5485A0;
+}
+.logo {
+    position: absolute;
+    width: 252px;
+    height: 60px;
+    left: 158px;
+    top: 20px;
+    background-image: url("https://ikit.sfu-kras.ru/sites/all/themes/institute/institute/svg/logo.svg");
+}
+.user-info {
+    position: absolute;
+    width: 94px;
+    height: 16px;
+    left: 1136px;
+    top: 42px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+h1 {
+    position: absolute;
+    width: 503px;
+    height: 34px;
+    left: 467px;
+    top: 171px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+p1 {
+    position: absolute;
+    width: 505px;
+    height: 49px;
+    left: 465px;
+    top: 227px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+.center {
+    position: absolute;
+    width: 580px;
+    height: 800px;
+    left: 430px;
+    top: 123px;
+    background: #C4C4C4;
+}
+.Rectangle-2 {
+    position: absolute;
+    width: 280px;
+    height: 800px;
+    left: 1030px;
+    top: 123px;
+    background: #689333;
+}
+.Rectangle-3 {
+    position: absolute;
+    width: 280px;
+    height: 800px;
+    left: 130px;
+    top: 123px;
+    background: #B3A38B;
+}
+.Rectangle-4 {
+    position: absolute;
+    width: 1180px;
+    height: 75px;
+    left: 130px;
+    top: 949px;
+    background: #8854A0;
+}
+.left-down {
+    position: absolute;
+    width: 227px;
+    height: 16px;
+    left: 158px;
+    top: 979px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+.right-down {
+    position: absolute;
+    width: 541px;
+    height: 31px;
+    left: 864px;
+    top: 979px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
